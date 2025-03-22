@@ -1,0 +1,14 @@
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\bin\Debug\net9.0\TextEditor.exe
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\bin\Debug\net9.0\TextEditor.deps.json
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\bin\Debug\net9.0\TextEditor.runtimeconfig.json
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\bin\Debug\net9.0\TextEditor.dll
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\bin\Debug\net9.0\TextEditor.pdb
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\obj\Debug\net9.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfoInputs.cache
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfo.cs
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\obj\Debug\net9.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\obj\Debug\net9.0\TextEditor.dll
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\obj\Debug\net9.0\refint\TextEditor.dll
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\obj\Debug\net9.0\TextEditor.pdb
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\obj\Debug\net9.0\TextEditor.genruntimeconfig.cache
+C:\Desenv\Balta\Fundamentos de C#\TextEditor\obj\Debug\net9.0\ref\TextEditor.dll
